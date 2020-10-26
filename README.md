@@ -1,3 +1,5 @@
+git clone https://github.com/prvkrishna/altimetrik-login-register.git
+
 Execute the npm install cmd's in these two folders:
       "cd altimetrik-login-register"  
        and 
