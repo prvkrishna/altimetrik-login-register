@@ -7,7 +7,7 @@ Execute the npm install cmd's in these two folders:
 
 
 // To run in development:  
-   1) cd altimetrik-login-register" and then execute "npm start" cmd
+   1) "cd altimetrik-login-register" and then execute "npm start" cmd
 
    2) Development server is running on 3000 port
 
